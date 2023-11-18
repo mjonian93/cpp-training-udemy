@@ -1,0 +1,5 @@
+[{
+  "file": "/home/msainz/Training/cpp-training-udemy/workspace/Section4/FirstProgram/main.cpp",
+  "directory": "/home/msainz/Training/cpp-training-udemy/workspace/Section4/FirstProgram",
+  "command": "clang++ -c /home/msainz/Training/cpp-training-udemy/workspace/Section4/FirstProgram/main.cpp -o /home/msainz/Training/cpp-training-udemy/workspace/Section4/FirstProgram/main.cpp.o  -I. -I.  -g -Wall"
+ }]
