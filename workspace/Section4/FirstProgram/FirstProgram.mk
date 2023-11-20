@@ -6,37 +6,39 @@
 ProjectName            :=FirstProgram
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :=/home/msainz/Training/cpp-training-udemy/workspace/Section4
-ProjectPath            :=/home/msainz/Training/cpp-training-udemy/workspace/Section4/FirstProgram
+WorkspacePath          :=C:/Users/msainz/workspaces/cpp-training-udemy/workspace/Section4
+ProjectPath            :=C:/Users/msainz/workspaces/cpp-training-udemy/workspace/Section4/FirstProgram
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/FirstProgram
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
-User                   :=
-Date                   :=11/16/23
-CodeLitePath           :=/home/msainz/.codelite
-MakeDirCommand         :=mkdir -p
-LinkerName             :=g++
-SharedObjectLinkerName :=g++ -shared -fPIC
+User                   :=Msainz
+Date                   :=20/11/2023
+CodeLitePath           :="C:/Program Files/CodeLite"
+MakeDirCommand         :=mkdir
+LinkerName             :=C:/mingw64/bin/g++.exe
+SharedObjectLinkerName :=C:/mingw64/bin/g++.exe -shared -fPIC
 ObjectSuffix           :=.o
-DependSuffix           :=.o.d
-PreprocessSuffix       :=.o.i
-DebugSwitch            :=-gstab
+DependSuffix           :=
+PreprocessSuffix       :=.i
+DebugSwitch            :=-g 
 IncludeSwitch          :=-I
 LibrarySwitch          :=-l
 OutputSwitch           :=-o 
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=/home/msainz/Training/cpp-training-udemy/workspace/Section4/build-$(WorkspaceConfiguration)/bin
-OutputFile             :=../build-$(WorkspaceConfiguration)/bin/$(ProjectName)
+OutputDirectory        :=C:/Users/msainz/workspaces/cpp-training-udemy/workspace/Section4/build-$(WorkspaceConfiguration)/bin
+OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
 ArchiveOutputSwitch    := 
-PreprocessOnlySwitch   :=-E 
+PreprocessOnlySwitch   :=-E
 ObjectsFileList        :=$(IntermediateDirectory)/ObjectsList.txt
 PCHCompileFlags        :=
+RcCmpOptions           := 
+RcCompilerName         :=C:/mingw64/bin/windres.exe
 LinkOptions            :=  -O0
 IncludePath            :=  $(IncludeSwitch). $(IncludeSwitch). 
 IncludePCH             := 
@@ -49,19 +51,19 @@ LibPath                := $(LibraryPathSwitch). $(LibraryPathSwitch). $(LibraryP
 ## Common variables
 ## AR, CXX, CC, AS, CXXFLAGS and CFLAGS can be overridden using an environment variable
 ##
-AR       := ar rcus
-CXX      := g++
-CC       := gcc
+AR       := C:/mingw64/bin/ar.exe -r
+CXX      := C:/mingw64/bin/g++.exe
+CC       := C:/mingw64/bin/gcc.exe
 CXXFLAGS :=  -g -Wall $(Preprocessors)
 CFLAGS   :=   $(Preprocessors)
 ASFLAGS  := 
-AS       := as
+AS       := C:/mingw64/bin/as.exe
 
 
 ##
 ## User defined environment variables
 ##
-CodeLiteDir:=/usr/share/codelite
+CodeLiteDir:=C:\Program Files\CodeLite
 Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
@@ -75,17 +77,17 @@ Objects=$(Objects0)
 all: MakeIntermediateDirs $(OutputFile)
 
 $(OutputFile): $(IntermediateDirectory)/.d $(Objects) 
-	@$(MakeDirCommand) "$(IntermediateDirectory)"
+	@if not exist "$(IntermediateDirectory)" $(MakeDirCommand) "$(IntermediateDirectory)"
 	@echo "" > $(IntermediateDirectory)/.d
 	@echo $(Objects0)  > $(ObjectsFileList)
 	$(LinkerName) $(OutputSwitch)$(OutputFile) @$(ObjectsFileList) $(LibPath) $(Libs) $(LinkOptions)
 
 MakeIntermediateDirs:
-	@$(MakeDirCommand) "$(IntermediateDirectory)"
-	@$(MakeDirCommand) "$(OutputDirectory)"
+	@if not exist "$(IntermediateDirectory)" $(MakeDirCommand) "$(IntermediateDirectory)"
+	@if not exist "$(OutputDirectory)" $(MakeDirCommand) "$(OutputDirectory)"
 
 $(IntermediateDirectory)/.d:
-	@$(MakeDirCommand) "$(IntermediateDirectory)"
+	@if not exist "$(IntermediateDirectory)" $(MakeDirCommand) "$(IntermediateDirectory)"
 
 PreBuild:
 
@@ -94,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "/home/msainz/Training/cpp-training-udemy/workspace/Section4/FirstProgram/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/msainz/workspaces/cpp-training-udemy/workspace/Section4/FirstProgram/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
