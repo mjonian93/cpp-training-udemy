@@ -1,1 +1,0 @@
-../build-Debug/SectionChallenge/main.cpp.o   
