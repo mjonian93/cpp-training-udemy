@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="IfStatement" Path="IfStatement/IfStatement.project" Active="No"/>
+  <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="No"/>
+  <Project Name="Grades" Path="Grades/Grades.project" Active="No"/>
+  <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
+  <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
+  <Project Name="ForLoop" Path="ForLoop/ForLoop.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="IfStatement" ConfigName="Debug"/>
+      <Project Name="IfElseStatement" ConfigName="Debug"/>
+      <Project Name="Grades" ConfigName="Debug"/>
+      <Project Name="Shipping" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="ConditionalOperator" ConfigName="Debug"/>
+      <Project Name="ForLoop" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="IfStatement" ConfigName="Debug"/>
+      <Project Name="IfElseStatement" ConfigName="Debug"/>
+      <Project Name="Grades" ConfigName="Debug"/>
+      <Project Name="Shipping" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="ConditionalOperator" ConfigName="Debug"/>
+      <Project Name="ForLoop" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

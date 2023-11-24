@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ForLoop\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ForLoop",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ForLoop\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ForLoop\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ConditionalOperator\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ConditionalOperator",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ConditionalOperator\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\ConditionalOperator\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfStatement\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfStatement",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfStatement\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfStatement\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Shipping\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Shipping",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Shipping\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Shipping\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Grades\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Grades",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Grades\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Grades\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfElseStatement\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfElseStatement",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfElseStatement\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\IfElseStatement\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\SwitchEnum\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\SwitchEnum",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\SwitchEnum\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\SwitchEnum\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Switch\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Switch",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Switch\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section9\\Switch\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }]
