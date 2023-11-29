@@ -59,4 +59,5 @@
     <File Name="main.cpp"/>
   </VirtualDirectory>
   <VirtualDirectory Name="include"/>
+  <Dependencies Name="Debug"/>
 </CodeLite_Project>

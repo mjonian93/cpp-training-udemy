@@ -1,0 +1,21 @@
+[{
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\DynamicMemory\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\DynamicMemory",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\DynamicMemory\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\DynamicMemory\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\Dereference\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\Dereference",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\Dereference\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\Dereference\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\PointerArithmetic\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\PointerArithmetic",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\PointerArithmetic\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\PointerArithmetic\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\ArraysAndPointers\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\ArraysAndPointers",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\ArraysAndPointers\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\ArraysAndPointers\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\SimplePointers\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\SimplePointers",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\SimplePointers\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section12\\SimplePointers\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }]
