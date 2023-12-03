@@ -4,7 +4,13 @@
   <Project Name="Dereference" Path="Dereference/Dereference.project" Active="No"/>
   <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
   <Project Name="ArraysAndPointers" Path="ArraysAndPointers/ArraysAndPointers.project" Active="No"/>
-  <Project Name="PointerArithmetic" Path="PointerArithmetic/PointerArithmetic.project" Active="Yes"/>
+  <Project Name="PointerArithmetic" Path="PointerArithmetic/PointerArithmetic.project" Active="No"/>
+  <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="No"/>
+  <Project Name="PassingPointers2" Path="PassingPointer2/PassingPointer2.project" Active="No"/>
+  <Project Name="PassingPointers3" Path="PassingPointers3/PassingPointers3.project" Active="No"/>
+  <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="No"/>
+  <Project Name="References" Path="References/References.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +19,12 @@
       <Project Name="DynamicMemory" ConfigName="Debug"/>
       <Project Name="ArraysAndPointers" ConfigName="Debug"/>
       <Project Name="PointerArithmetic" ConfigName="Debug"/>
+      <Project Name="PassingPointers1" ConfigName="Debug"/>
+      <Project Name="PassingPointers2" ConfigName="Debug"/>
+      <Project Name="PassingPointers3" ConfigName="Debug"/>
+      <Project Name="ReturnPointer" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +33,12 @@
       <Project Name="DynamicMemory" ConfigName="Debug"/>
       <Project Name="ArraysAndPointers" ConfigName="Debug"/>
       <Project Name="PointerArithmetic" ConfigName="Debug"/>
+      <Project Name="PassingPointers1" ConfigName="Debug"/>
+      <Project Name="PassingPointers2" ConfigName="Debug"/>
+      <Project Name="PassingPointers3" ConfigName="Debug"/>
+      <Project Name="ReturnPointer" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
