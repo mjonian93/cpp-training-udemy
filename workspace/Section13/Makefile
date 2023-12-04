@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ AccessingClassMembers - Debug ]----------"
-	@cd "AccessingClassMembers" && "$(MAKE)" -f  "AccessingClassMembers.mk"
+	@echo "----------Building project:[ Challenge - Debug ]----------"
+	@cd "Challenge" && "$(MAKE)" -f  "Challenge.mk"
 clean:
-	@echo "----------Cleaning project:[ AccessingClassMembers - Debug ]----------"
-	@cd "AccessingClassMembers" && "$(MAKE)" -f  "AccessingClassMembers.mk" clean
+	@echo "----------Cleaning project:[ Challenge - Debug ]----------"
+	@cd "Challenge" && "$(MAKE)" -f  "Challenge.mk" clean
