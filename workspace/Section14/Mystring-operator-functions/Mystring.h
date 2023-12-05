@@ -3,6 +3,9 @@
 
 class Mystring
 {
+    friend bool operator==(const Mystring &lhs, const Mystring &rhs);
+    friend Mystring operator-(const Mystring &obj);
+    friend Mystring operator+(const Mystring &lhs, const Mystring &rhs);
 private:
     char *str;      //pointer to a char[] that hols a C-style string
 public:
