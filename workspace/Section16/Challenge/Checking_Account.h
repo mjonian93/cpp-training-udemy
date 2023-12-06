@@ -14,6 +14,7 @@ public:
     virtual bool deposit(double amount) override;
     virtual bool withdraw(double) override;
     virtual void print(std::ostream &os) const override;
+    virtual ~Checking_Account() {}
 };
 
 #endif // _CHECKING_ACCOUNT_H_
