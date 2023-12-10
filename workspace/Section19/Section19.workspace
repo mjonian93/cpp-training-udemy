@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section19" Database="" Version="10000">
+  <Project Name="Manip_Boolean" Path="Manip_Boolean/Manip_Boolean.project" Active="No"/>
+  <Project Name="Manip_Integer" Path="Manip_Integer/Manip_Integer.project" Active="No"/>
+  <Project Name="Manip_Floating" Path="Manip_Floating/Manip_Floating.project" Active="No"/>
+  <Project Name="Manip_Fields" Path="Manip_Fields/Manip_Fields.project" Active="No"/>
+  <Project Name="Challenge_1" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="Readfile_1" Path="Readfile_1/Readfile_1.project" Active="No"/>
+  <Project Name="Readfile_2" Path="Readfile_2/Readfile_2.project" Active="No"/>
+  <Project Name="Readfile_3" Path="Readfile_3/Readfile_3.project" Active="No"/>
+  <Project Name="Readfile_4" Path="Readfile_4/Readfile_4.project" Active="No"/>
+  <Project Name="Challenge_2" Path="Challenge_2/Challenge_2.project" Active="No"/>
+  <Project Name="Challenge_3" Path="Challenge_3/Challenge_3.project" Active="No"/>
+  <Project Name="WriteFile" Path="WriteFile/WriteFile.project" Active="No"/>
+  <Project Name="CopyFile_1" Path="CopyFile_1/CopyFile_1.project" Active="No"/>
+  <Project Name="CopyFile_2" Path="CopyFile_2/CopyFile_2.project" Active="No"/>
+  <Project Name="Challenge_4" Path="Challenge_4/Challenge_4.project" Active="No"/>
+  <Project Name="StringStream" Path="StringStream/StringStream.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Manip_Boolean" ConfigName="Debug"/>
+      <Project Name="Manip_Integer" ConfigName="Debug"/>
+      <Project Name="Manip_Floating" ConfigName="Debug"/>
+      <Project Name="Manip_Fields" ConfigName="Debug"/>
+      <Project Name="Challenge_1" ConfigName="Debug"/>
+      <Project Name="Readfile_1" ConfigName="Debug"/>
+      <Project Name="Readfile_2" ConfigName="Debug"/>
+      <Project Name="Readfile_3" ConfigName="Debug"/>
+      <Project Name="Readfile_4" ConfigName="Debug"/>
+      <Project Name="Challenge_2" ConfigName="Debug"/>
+      <Project Name="Challenge_3" ConfigName="Debug"/>
+      <Project Name="WriteFile" ConfigName="Debug"/>
+      <Project Name="CopyFile_1" ConfigName="Debug"/>
+      <Project Name="CopyFile_2" ConfigName="Debug"/>
+      <Project Name="Challenge_4" ConfigName="Debug"/>
+      <Project Name="StringStream" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Manip_Boolean" ConfigName="Debug"/>
+      <Project Name="Manip_Integer" ConfigName="Debug"/>
+      <Project Name="Manip_Floating" ConfigName="Debug"/>
+      <Project Name="Manip_Fields" ConfigName="Debug"/>
+      <Project Name="Challenge_1" ConfigName="Debug"/>
+      <Project Name="Readfile_1" ConfigName="Debug"/>
+      <Project Name="Readfile_2" ConfigName="Debug"/>
+      <Project Name="Readfile_3" ConfigName="Debug"/>
+      <Project Name="Readfile_4" ConfigName="Debug"/>
+      <Project Name="Challenge_2" ConfigName="Debug"/>
+      <Project Name="Challenge_3" ConfigName="Debug"/>
+      <Project Name="WriteFile" ConfigName="Debug"/>
+      <Project Name="CopyFile_1" ConfigName="Debug"/>
+      <Project Name="CopyFile_2" ConfigName="Debug"/>
+      <Project Name="Challenge_4" ConfigName="Debug"/>
+      <Project Name="StringStream" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
