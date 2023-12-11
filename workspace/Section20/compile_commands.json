@@ -1,0 +1,21 @@
+[{
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Algorithms\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Algorithms",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Algorithms\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Algorithms\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Iterators\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Iterators",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Iterators\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\Iterators\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplateArray\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplateArray",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplateArray\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplateArray\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplates\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplates",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplates\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\ClassTemplates\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\FunctionTemplates\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\FunctionTemplates",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\FunctionTemplates\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section20\\FunctionTemplates\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }]
