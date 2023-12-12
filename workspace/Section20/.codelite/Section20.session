@@ -1,40 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Section20.workspace">
-  <int Value="4" Name="m_selectedTab"/>
+  <int Value="10" Name="m_selectedTab"/>
   <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Section20.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\FunctionTemplates\main.cpp" Name="FileName"/>
-      <int Value="21" Name="FirstVisibleLine"/>
-      <int Value="43" Name="CurrentLine"/>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\List\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\ClassTemplates\main.cpp" Name="FileName"/>
-      <int Value="37" Name="FirstVisibleLine"/>
-      <int Value="55" Name="CurrentLine"/>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Vector\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="4" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\ClassTemplateArray\main.cpp" Name="FileName"/>
-      <int Value="51" Name="FirstVisibleLine"/>
-      <int Value="61" Name="CurrentLine"/>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Challenge_2\main.cpp" Name="FileName"/>
+      <int Value="66" Name="FirstVisibleLine"/>
+      <int Value="121" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Iterators\main.cpp" Name="FileName"/>
-      <int Value="97" Name="FirstVisibleLine"/>
-      <int Value="106" Name="CurrentLine"/>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Challenge_2\Description.txt" Name="FileName"/>
+      <int Value="27" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Algorithms\main.cpp" Name="FileName"/>
-      <int Value="110" Name="FirstVisibleLine"/>
-      <int Value="114" Name="CurrentLine"/>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Stack\main.cpp" Name="FileName"/>
+      <int Value="15" Name="FirstVisibleLine"/>
+      <int Value="18" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Queue\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="8" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Challenge_4\Description.txt" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Challenge_4\main.cpp" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="14" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Challenge_1\main.cpp" Name="FileName"/>
+      <int Value="6" Name="FirstVisibleLine"/>
+      <int Value="3" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Challenge_1\Description.txt" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\msainz\workspaces\cpp-training-udemy\workspace\Section20\Priority_queue\main.cpp" Name="FileName"/>
+      <int Value="53" Name="FirstVisibleLine"/>
+      <int Value="80" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
