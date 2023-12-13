@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatefulLambdas\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatefulLambdas",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatefulLambdas\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatefulLambdas\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\STL_Lambdas\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\STL_Lambdas",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\STL_Lambdas\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\STL_Lambdas\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatelessLambda\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatelessLambda",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatelessLambda\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\StatelessLambda\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\FunctionObjects\\main.cpp",
+  "directory": "C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\FunctionObjects",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\FunctionObjects\\main.cpp -o C:\\Users\\msainz\\workspaces\\cpp-training-udemy\\workspace\\Section21\\FunctionObjects\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
+ }]
