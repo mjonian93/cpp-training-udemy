@@ -7,6 +7,8 @@
 
 using namespace std;
 
+bool calculate_sum(int &sum, int a, int b);
+
 int main() {
     
     int score {100};
@@ -27,6 +29,11 @@ int main() {
     cout << *temp_ptr << endl;      //100.7
     temp_ptr = &low_temp;
     cout << *temp_ptr << endl;      //37.4
+
+    int sum;
+    int a = 5;
+    int b = 3;
+    calculate_sum(sum, a, b);
     
     cout << "\n-------------------------" << endl;
     string name {"Frank"};
