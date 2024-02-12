@@ -5,9 +5,9 @@
 class Movie
 {
 private:
-std::string name;
-std::string rating;
-int watched;
+    std::string name;
+    std::string rating;
+    int watched;
 public:
     std::string get_name();
     std::string get_rating();
